@@ -35,7 +35,8 @@ as you can see there is a menu on the top left with the options load and detect,
 
 
 
-you can now choose 'load and detect'. Here is an example. If some of the degits were wrong or not detected, you should manually change them
+you can now choose 'load and detect'. Here is an example. If some of the degits were wrong or not detected, you should manually change them.
+
 <img width="361" height="434" alt="image" src="https://github.com/user-attachments/assets/c50126b0-9d67-4835-affb-d1bef1ecc3ba" />
 
 
